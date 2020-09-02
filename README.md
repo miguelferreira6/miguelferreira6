@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **miguelferreira9899@gmail.com**
 <h4 align="center">
-   **Things I can use:**
+   Things I can use:
 </h4>
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
