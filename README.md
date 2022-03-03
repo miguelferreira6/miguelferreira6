@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelferreira6" alt="miguelferreira6" /> </p>
 
-- 🔭 I’m currently working on **A custom personal Back-Office**
-
 - 🌱 I’m currently learning **React and the MERN Stack**
 
 - 📫 How to reach me **miguelferreira9899@gmail.com**
