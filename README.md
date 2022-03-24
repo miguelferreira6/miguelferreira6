@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.JS, Redux and exploring a bit of the MERN Stack**
 
-- 📫 How to reach me **miguelferreira9899@gmail.com**
+- 📫 How to reach me **miguelferreira.info@gmail.com**
 <h4 align="center">
    Technologies I can use:
 </h4>
