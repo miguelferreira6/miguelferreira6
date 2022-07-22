@@ -2,8 +2,9 @@
 <h3 align="center">I'm a Front-End Web Developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelferreira6" alt="miguelferreira6" /> </p>
+- 🏢 Currently taking a Front End Development Internship at MediaWeb Creations
 
-- 🌱 I’m currently learning **React.JS, Redux and exploring a bit of the MERN Stack**
+- 🌱 I’m currently learning **OutSystems, React.JS, Redux and exploring a bit of the MERN Stack**
 
 - 📫 How to reach me **miguelferreira.info@gmail.com**
 <h4 align="center">
