@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelferreira6" alt="miguelferreira6" /> </p>
 
-- 🏢 I’m currently on a Front End Development Internship at MediaWeb Creations
+- 🏢 I’m currently a Front End Development at MediaWeb Creations
 
 - 🌱 I’m currently learning **OutSystems, React.JS, Redux and exploring a bit of the MERN Stack**
 
