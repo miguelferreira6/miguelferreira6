@@ -5,7 +5,7 @@
 
 - 🏢 I’m currently a Front End Development at MediaWeb Creations
 
-- 🌱 I’m currently learning **OutSystems, JavaScript, TypeScript, Webpack, React.JS**
+- 🌱 I’m currently learning **OutSystems, JavaScript, TypeScript, React.JS**
 
 - 📫 How to reach me **miguelferreira.info@gmail.com**
 <h4 align="center">
