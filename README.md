@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelferreira6" alt="miguelferreira6" /> </p>
 
-- 🏢 I’m currently a Front End Development at <a href="https://mediaweb.pt/">Mediaweb</a>
+- 🏢 I’m currently a Front End Development at <a href="https://mediaweb.pt/" target="_blank">Mediaweb</a>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Next.js**
 
