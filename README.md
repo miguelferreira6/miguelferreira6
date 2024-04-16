@@ -17,5 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelferreira6&show_icons=true&locale=en" alt="miguelferreira6" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelferreira6&theme=dark" alt="miguelferreira6" /></p>
-
